@@ -1,0 +1,2 @@
+https://github.com/cc-tweaked/cc-restitched/releases/download/v1.18.1-1.99.2-alpha1-ccr/cc-restitched-1.99.2-alpha1.jar
+fb2dc05095a40ce20b68a87e2a0d9d1af8027132

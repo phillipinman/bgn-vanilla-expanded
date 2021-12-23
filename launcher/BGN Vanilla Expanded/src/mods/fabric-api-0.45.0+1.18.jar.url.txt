@@ -1,0 +1,2 @@
+https://media.forgecdn.net/files/3577/46/fabric-api-0.45.0%2B1.18.jar
+23cca3b5a4f57adbd46dbdcf198759932c001db1
